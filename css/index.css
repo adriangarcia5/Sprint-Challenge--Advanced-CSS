@@ -192,9 +192,9 @@ footer {
   display: flex;
   padding: 25px 25px;
   align-items: center;
+  align-content: center;
   justify-content: space-between;
   flex-direction: column;
-  background: #F6F6F6;
 }
 @media (max-width: 500px) {
   .header {
